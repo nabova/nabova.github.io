@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nabova.github.io/MyG/sitemap.MyG
